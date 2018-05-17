@@ -21,6 +21,7 @@ $(call inherit-product, vendor/xiaomi/gemini/gemini-vendor.mk)
 # Local overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
+    vendor/aosp/overlay/CarrierConfig
 
 # ARCore
 PRODUCT_PACKAGES += \
