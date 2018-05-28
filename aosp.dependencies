@@ -1,0 +1,26 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "PixelExperience-Devices/device_xiaomi_msm8996-common",
+    "target_path": "device/xiaomi/msm8996-common",
+    "branch":      "oreo-mr1-gemini"
+  },
+  {
+    "remote":      "github",
+    "repository":  "AEXmod/platform_kernel_xiaomi_msm8996",
+    "target_path": "kernel/xiaomi/msm8996",
+    "branch":      "eas-oreo"
+  },
+  {
+    "remote":      "github",
+    "repository":  "Felvesthe/android_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "oreo-mr1-eas"
+  },
+  {
+    "remote":      "github",
+    "repository":  "AEXmod/platform_prebuilts_kernel-tc",
+    "target_path": "prebuilts/clang/host/linux-x86/kernel",
+    "branch":      "clang"
+  }
+]
