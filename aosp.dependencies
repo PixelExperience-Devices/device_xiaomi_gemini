@@ -7,12 +7,6 @@
   },
   {
     "remote":      "github",
-    "repository":  "AEXmod/platform_kernel_xiaomi_msm8996",
-    "target_path": "kernel/xiaomi/msm8996",
-    "branch":      "eas-oreo"
-  },
-  {
-    "remote":      "github",
     "repository":  "Felvesthe/android_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch":      "oreo-mr1-eas"
